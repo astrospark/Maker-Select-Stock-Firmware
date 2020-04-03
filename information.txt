@@ -1,0 +1,46 @@
+Device Information
+==================
+
+Detected device
+Device name       ATmega1284P
+Device signature  0x1E9705
+
+
+Datasheet information
+                          ATmega1284P-AU  ATmega1284P-PU  ATmega1284P-MU  ATmega1284P-AN  ATmega1284P-PN  ATmega1284P-MN
+CPU                                                                    AVR8
+Flash size                                                            128 KB
+EEPROM size                                                            4 KB
+SRAM size                                                             16 KB
+VCC range                  1.8 - 5.5 V     1.8 - 5.5 V     1.8 - 5.5 V     1.8 - 5.5 V     1.8 - 5.5 V     1.8 - 5.5 V
+Maximum operating speed       20 MHz          20 MHz          20 MHz          20 MHz          20 MHz          20 MHz
+
+
+Fuses
+=====
+
+BODLEVEL = 2V7
+OCDEN = [ ]
+JTAGEN = [ ]
+SPIEN = [X]
+WDTON = [ ]
+EESAVE = [ ]
+BOOTSZ = 1024W_FC00
+BOOTRST = [X]
+CKDIV8 = [ ]
+CKOUT = [ ]
+SUT_CKSEL = FSOSC_258CK_65MS_CRES_SLOWPWR
+
+EXTENDED = 0xFD (valid)
+HIGH = 0xDC (valid)
+LOW = 0xD6 (valid)
+
+
+Lock Bits
+=========
+
+LB = NO_LOCK
+BLB0 = NO_LOCK
+BLB1 = LPM_SPM_DISABLE
+
+LOCKBIT = 0xCF (valid)
